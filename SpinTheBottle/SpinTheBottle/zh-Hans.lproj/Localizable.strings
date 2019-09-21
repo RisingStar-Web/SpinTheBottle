@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  SpinTheBottle
+
+  Created by Matt Davenport on 25/10/2012.
+  Copyright (c) 2012 Taptastic Apps. All rights reserved.
+*/
+
+"Players" = "玩家";
+"Too many players" = "太多玩家";
+"You have reached the maximum number of players" = "你已经达到了最大数量的玩家";
+"Cancel" = "取消";
+"Please enter a name" = "请输入姓名";
+"OK" = "OK";
+"Add players" = "添加玩家";
+"Please add at least 2 players to start" = "请添加至少2名玩家然后开始。";
+"Dismiss" = "解雇";
+
+"Spin" = "转";
+"Done" = "完成";
+"Back" = "返回";
+"Remove player" = "踢出玩家";
+"Are you sure you want to remove this player?" = "您确定您要删除此玩家吗？";

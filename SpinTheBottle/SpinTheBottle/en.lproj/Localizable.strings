@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  SpinTheBottle
+
+  Created by Matt Davenport on 25/10/2012.
+  Copyright (c) 2012 Taptastic Apps. All rights reserved.
+*/
+
+"Players" = "Players";
+"Too many players" = "Too many players";
+"You have reached the maximum number of players" = "You have reached the maximum number of players";
+"Cancel" = "Cancel";
+"Please enter a name" = "Please enter a name";
+"OK" = "OK";
+"Add players" = "Add players";
+"Please add at least 2 players to start" = "Please add at least 2 players to start";
+"Dismiss" = "Dismiss";
+
+"Spin" = "Spin";
+"Done" = "Done";
+"Back" = "Back";
+"Remove player" = "Remove player";
+"Are you sure you want to remove this player?" = "Are you sure you want to remove this player?";
